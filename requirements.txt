@@ -1,0 +1,7 @@
+python==3.12.3
+ipykernel
+nbformat
+requests
+beautifulsoup4
+lxml
+pandas

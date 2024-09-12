@@ -1,0 +1,12 @@
+name: venvlarepublica
+channels:
+  - defaults
+dependencies:
+  - python=3.12.3
+  - ipykernel
+  - nbformat
+  - requests
+  - beautifulsoup4
+  - lxml
+  - pandas
+prefix: C:\Users\raul\anaconda3\envs\venvlarepublica
